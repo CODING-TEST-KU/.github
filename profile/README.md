@@ -6,7 +6,7 @@
 | 강찬욱  | [@chanwookk](https://github.com/chanwookk) | [코딩테스트 레포]() |
 | 김민석 | [@user2](https://github.com/user2)         | [레포링크](https://github.com/user2/...)                     |
 | 박다솔 | [@user3](https://github.com/user3)         | [레포링크](https://github.com/user3/...)                     |
-| 장익환 | [@user3](https://github.com/user3)         | [레포링크](https://github.com/user3/...)                     |
+| 장익환 | [@JangIkhwan](https://github.com/JangIkhwan)         | [레포링크](https://github.com/CODING-TEST-KU/CODING-TEST-JIH)                     |
 
 
 ## 📆 스터디 방식
