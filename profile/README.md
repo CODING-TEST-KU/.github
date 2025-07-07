@@ -4,7 +4,7 @@
 | 이름  | GitHub                                     | 코테 레포지토리                                                 |
 | --- | ------------------------------------------ | -------------------------------------------------------- |
 | 강찬욱  | [@chanwookk](https://github.com/chanwookk) | [코딩테스트 레포]() |
-| 김민석 | [@user2](https://github.com/user2)         | [레포링크](https://github.com/user2/...)                     |
+| 김민석 | [@minseok1015](https://github.com/minseok1015)         | [레포링크](https://github.com/CODING-TEST-KU/CODING-TEST-KMS)                     |
 | 박다솔 | [@user3](https://github.com/user3)         | [레포링크](https://github.com/user3/...)                     |
 | 장익환 | [@JangIkhwan](https://github.com/JangIkhwan)         | [레포링크](https://github.com/CODING-TEST-KU/CODING-TEST-JIH)                     |
 
